@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+
+    for (int i = 1; i <= n; i++)
+    {
+        cout << i << " ";
+    }
+}
+// Time Complexity: O(n)
+// Space Complexity: O(1)
